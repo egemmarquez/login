@@ -8,5 +8,5 @@
 <br>
 <a href="lost-password.php">Lost password</a>
 <a href="sign-up.php">Register</a>
-
+TEST STRING
 </body>
